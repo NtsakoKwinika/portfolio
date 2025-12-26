@@ -1,18 +1,28 @@
 # Facilitator
 
-# Professtional Summary
-I am currently studying for a Bachelor of Science Mathematics and Statistics with the University of South Africa, additionally I have completed a Higher Certificate Mathematics and Statistics as well as N6 Mechanical Engineering with Tshwane South TEVT College. I am currently working in the education environment as a tutor and have previously worked in the logistics industry as a dispatch clerk. I have good communication skills have been honed through public speaking and teaching, technically proficient in mechanical draughting. I am seeking for opportunities as junior engineer, data analyst, and statistics.
+# Professional Summary
+Experienced and committed FET Phase Mathematics and Physical Sciences educator with a strong academic background in Mathematics, Statistics, and Engineering. Holds a BSc in Mathematics and Statistics, a Higher Certificate in Mathematics and Statistics (UNISA), and an N6 in Mechanical Engineering. Founder and lead tutor at Maven Academia, where I deliver high-quality Mathematics and Physical Sciences instruction across multiple curricula including CAPS, IEB, and Cambridge, supporting diverse learner profiles and academic pathways.
+Proven ability to teach complex abstract concepts with clarity, structure, and real-world relevance, fostering analytical thinking, problem-solving skills, and examination readiness at the FET level. Highly skilled in lesson planning, assessment preparation, and curriculum alignment, with effective integration of digital learning platforms such as Microsoft Teams and Google Classroom. Recognised for strong classroom communication, learner engagement, and a results-oriented approach, with a professional commitment to academic excellence and continuous improvement in Mathematics and Science education.
+
 # Education
 - BSc Mathematics and Statistics | University of South Africa (currently)
-- HC Mathematics and Statistics | Universisty of South Africa ( November 2023)
-- N6 Machenical Engineering | Tshwane South TEVT College (August 2018)
+- HC Mathematics and Statistics | University of South Africa ( November 2023)
+- N6 Mechanical Engineering | Tshwane South TEVT College (August 2018)
 
 # Work Experience
 *Tutor at eThuta from 2021 to 2023*
-- Aiding in Mathematics and Physical Sciences for grades 10 to grade 12.
+- Teach students according to their educational needs, including the personalized planning and marking of work to be carried out by each student in accordance with school curiculumn.
+- Set appropriate, realistic yet demanding academic expectations for each student's learning, building on their prior knowledge.
 - Providing mentorship and support to high school learners as a Maths and Science Tutor.
 - Providing learners with support and assisting with setting study timetables.
+- Track student progress and use information to inform teaching and learning.
+-  Communicate effectively with the parents of students as appropriate for feedack and progress of the student.
 
 *Teacher Assistant at Noordwyk Secondary School from January 2021 to August 2021*
-- Assisting the teacher with setting assessments and coordinating class activities.
+- Plan and prepare carefully differentiated courses, lessons and resources that follow the school’s approach to curriculum design and implementation.
+- Contribute to the preparation of individual education plans, progress files and other reports.
+- Fostering a supportive and inclusive community where students feel empowered.
+- Collaborating with students, faculty, and families to create a vibrant and inclusive community that celebrates diversity and empowers every individual to reach their full potential.
+- Maintain discipline in accordance with the school’s procedures, and encourage good practice with regard to punctuality, behaviour, appearance, and standards of work
+- Teach students according to their educational needs, including the personalized planning and marking of work.
 - Providing mentoring and additional information to high school learners that is useful to apply to university.
