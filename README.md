@@ -8,4 +8,5 @@ I am currently studying for a Bachelor of Science Mathematics and Statistics wit
 - N6 Machenical Engineering | Tshwane South TEVT College (August 2018)
 
 # Work Experience
+**Tutor at eThuta from 2021 to 2023**
 -
