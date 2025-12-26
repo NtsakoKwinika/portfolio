@@ -8,5 +8,11 @@ I am currently studying for a Bachelor of Science Mathematics and Statistics wit
 - N6 Machenical Engineering | Tshwane South TEVT College (August 2018)
 
 # Work Experience
-**Tutor at eThuta from 2021 to 2023**
--
+*Tutor at eThuta from 2021 to 2023*
+- Aiding in Mathematics and Physical Sciences for grades 10 to grade 12.
+- Providing mentorship and support to high school learners as a Maths and Science Tutor.
+- Providing learners with support and assisting with setting study timetables.
+
+*Teacher Assistant at Noordwyk Secondary School from January 2021 to August 2021*
+- Assisting the teacher with setting assessments and coordinating class activities.
+- Providing mentoring and additional information to high school learners that is useful to apply to university.
