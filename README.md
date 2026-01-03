@@ -8,9 +8,10 @@ Proven ability to teach complex abstract concepts with clarity, structure, and r
 - BSc Mathematics and Statistics | University of South Africa (currently)
 - HC Mathematics and Statistics | University of South Africa ( November 2023)
 - N6 Mechanical Engineering | Tshwane South TEVT College (August 2018)
+- NSC Matric Certificate | Noordwyk Secondary School (November 2014)
 
 # Work Experience
-*Tutor at eThuta from 2021 to 2023*
+*Tutor at eThuta from March 2021 to November 2023*
 - Teach students according to their educational needs, including the personalized planning and marking of work to be carried out by each student in accordance with school curiculumn.
 - Set appropriate, realistic yet demanding academic expectations for each student's learning, building on their prior knowledge.
 - Providing mentorship and support to high school learners as a Maths and Science Tutor.
